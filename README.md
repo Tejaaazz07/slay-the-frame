@@ -46,9 +46,11 @@ Participants can register and submit their entries via the official Microsoft Fo
 
 ---
 
-## 🚀 Deployment & Live Preview
+## 🚀 Live Website & Branded Shortlinks
 
-This static landing page is ready to be hosted on **GitHub Pages**.
+- **Official Live Website:** [https://tejaaazz07.github.io/slay-the-frame/](https://tejaaazz07.github.io/slay-the-frame/)
+- **Branded Shortlink 1:** [https://tinyurl.com/slay-the-frame](https://tinyurl.com/slay-the-frame)
+- **Branded Shortlink 2:** [https://tinyurl.com/slaytheframe](https://tinyurl.com/slaytheframe)
 
 ### Running Locally
 Open `index.html` directly in any modern browser, or run a local static web server:
